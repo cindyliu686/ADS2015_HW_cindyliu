@@ -9,6 +9,8 @@ Here is the image of learning curves in which both training and validation error
 
 Here are the visualization results for the test data by using K = 3.
 
-Results with test data points shown:![text](Result with test data points.png)
+Results with test data points shown.
+![text](Result with test data points.png)
 
-Results without test data points shown:![text](Result without test data points.png)
+Results without test data points shown.
+![text](Result without test data points.png)
