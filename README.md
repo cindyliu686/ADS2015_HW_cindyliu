@@ -2,7 +2,7 @@
 
 
 This is the answer for homework 1 extra credit part which uses the k-nearest
-neighbor classifier algorithm to classify location data of NY stata and beyond.
+neighbor classifier algorithm to classify location data of NY state and beyond.
 
 Here is the image of learning curves in which both training and validation errors are against K value.
 ![text](Learning Curves.png)
